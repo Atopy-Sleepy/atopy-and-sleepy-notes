@@ -19,3 +19,4 @@ This site accompanies the **Atopy and Sleepy** blog and provides detailed medica
 ## Articles
 
 - [慢性手湿疹の包括的マネジメント](hand-eczema.html)
+- [Chronic Hand Eczema: Clinical Management and Self-Care](chronic-hand-eczema-management.html)
