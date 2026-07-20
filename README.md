@@ -18,4 +18,4 @@ This site accompanies the **Atopy and Sleepy** blog and provides detailed medica
 
 ## Articles
 
-Coming soon.
+- [慢性手湿疹の包括的マネジメント](hand-eczema.html)
